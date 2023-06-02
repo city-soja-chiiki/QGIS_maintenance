@@ -17,7 +17,7 @@
 　　　　　クラウド:市道編入等台帳，道路管理網図，河川・水路管理網図，道路台帳，道路付帯施設，路面性状台帳  
 2. LGWANとクラウドのデータベース統合  
 　　・PostGISのデータ構造を統一
-　　　　soja_lgwan,soja_lgwan_code,soja_cloudに統合
+　　　　soja_lgwan,soja_lgwan_code,soja_lgwan_bg,soja_cloudに統合
 3. LGWANとクラウドのデータ統合   
 4. QGISランチャ  
 　　・コンフィグファイルのランチャー内移行  
