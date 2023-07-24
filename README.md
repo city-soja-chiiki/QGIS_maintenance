@@ -5,7 +5,7 @@
 　　　　　　　　　　スポット26回  
 ### 運用ルール  
 　ISSUES の　CLOSE　は，OPEN　した者が行うこと。  
-### 保守詳細は下記のとおり
+## 保守詳細は下記のとおり
 #### [　2.QGIS本体の保守](https://github.com/city-soja-chiiki/QGIS/blob/main/2.QGIS%E6%9C%AC%E4%BD%93%E3%81%AE%E4%BF%9D%E5%AE%88.md)  
 #### [　4.その他台帳用QGISの保守](https://github.com/city-soja-chiiki/QGIS/blob/main/4.%E3%81%9D%E3%81%AE%E4%BB%96%E5%8F%B0%E5%B8%B3%E7%94%A8QGIS%E3%81%AE%E4%BF%9D%E5%AE%88.md)  　
 ### 今後の引継ぎ段取り概要　2023/07/13（完了は見え消し）  
@@ -25,10 +25,11 @@
 　　・プラグイン　コンフィグファイルのバージョン管理追加  
 　　・ランチャーのオブジェクト化  
 1. LIZMAP(2023-07-13)  
-　　・AcuGIS LIAMAP2 >>> LIZMAP3へ   
-　　・サーバーを東京へ   
+　　~~・AcuGIS LIAMAP2 >>> LIZMAP3へ~~   
+　　~~・サーバーを東京へ~~   
 　　・LIZMAP最新版へアップグレード  
 1. ~~保守点検チェック表の作成~~
+
 #### 追加機能の検討
 ##### ログインの再構築  
 ##### 検索プラグインの再構築(2023-07-13再構築開始)
